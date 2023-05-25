@@ -54,7 +54,10 @@ class _SignUpPageState extends State<SignUpPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: kWhiteColor,
-      appBar: AppBar(automaticallyImplyLeading: true),
+      appBar: AppBar(
+        backgroundColor: kWhiteColor,
+        automaticallyImplyLeading: true,
+      ),
       body: Stack(
         children: [
           SingleChildScrollView(
@@ -409,7 +412,8 @@ class _SignUpPageState extends State<SignUpPage> {
                                   log(currentUser.toString());
                                   if (currentUser) {
                                     Helper.toast(
-                                        context, "User Login Successfully",success: true);
+                                        context, "User Login Successfully",
+                                        success: true);
                                     _loading(false);
 
                                     gotoHomePage();
