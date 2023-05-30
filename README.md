@@ -1,16 +1,12 @@
-# next
+# NEXT.in
 
 A new Flutter project.
 
-## Getting Started
+## Splash Screen and SignUp Screen
+![1](https://github.com/GamechiNitin/next.in/assets/116989851/3c02baa2-65e2-40e8-9f0f-ff3d1ad6f410)
 
-This project is a starting point for a Flutter application.
+## Login Screen and ForgetPassword Screen
+![2](https://github.com/GamechiNitin/next.in/assets/116989851/64b5f9c6-0f6e-4fc3-8a92-555bb962cc42)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## HomeScreen and Profile Screen
+![3](https://github.com/GamechiNitin/next.in/assets/116989851/64f9b769-65fc-4395-9762-1d99fce1b5d7)
